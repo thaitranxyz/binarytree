@@ -7,48 +7,52 @@ namespace binarytree
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            BinaryTree bt = new BinaryTree();
+            bt.Insert(1);
+            bt.Print();
         }
 
-        class Node()
+        class Node
         {
-            int key; 
-            Node left, right; 
+            public int key; 
+            public Node left, right; 
 
             public Node(int key)
             {
                 this.key = key; 
-                left = right = null;
+                left = right = null;  
             }
 
             public Node()
             {
-                key = null; 
             }
         }
 
 
-        public class BinaryTree()
+        public class BinaryTree
         {
             Node root; 
+            Node left,right;
             Node head; 
 
-            public BinaryTree(int rootKey)
+            public BinaryTree(int key)
             {
-                root = rootkey; 
+                root = new Node(key);
+                root.right = null; 
+                root.left = null; 
+                head = root; 
             } 
 
             public BinaryTree()
             {
-                root = null; 
-                root.left = root.right = null; 
-                head = root; 
+                root = null;
             }
 
             public void Insert(int key)
             {
                 if (root == null)
                 {
-                    root = key; 
+                    root = new Node(key); 
                     head = root; 
                     root.left = null; 
                     root.right = null; 
@@ -63,7 +67,7 @@ namespace binarytree
                         }
                         else 
                         {
-                            head = head.left
+                            head = head.left;
                         }
                     }
                     head.key = key; 
@@ -78,7 +82,7 @@ namespace binarytree
                 }
                 else 
                 {
-                    
+                    System.Console.WriteLine("tree is not empty");
                 }
             }
         }

@@ -1,0 +1,15 @@
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/obj/Debug/net5.0/binarytree.csprojAssemblyReference.cache
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/obj/Debug/net5.0/binarytree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/obj/Debug/net5.0/binarytree.AssemblyInfoInputs.cache
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/obj/Debug/net5.0/binarytree.AssemblyInfo.cs
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/obj/Debug/net5.0/binarytree.csproj.CoreCompileInputs.cache
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/bin/Debug/net5.0/binarytree.deps.json
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/bin/Debug/net5.0/binarytree.runtimeconfig.json
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/bin/Debug/net5.0/binarytree.runtimeconfig.dev.json
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/bin/Debug/net5.0/binarytree.dll
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/bin/Debug/net5.0/ref/binarytree.dll
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/bin/Debug/net5.0/binarytree.pdb
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/obj/Debug/net5.0/binarytree.dll
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/obj/Debug/net5.0/ref/binarytree.dll
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/obj/Debug/net5.0/binarytree.pdb
+/Users/trandamtrungthai/Desktop/dotnet/binarytree/obj/Debug/net5.0/binarytree.genruntimeconfig.cache
